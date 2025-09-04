@@ -1,0 +1,5 @@
+{"timestamp":1756947143183,"symbol":"BTC/USDT","sellVenue":"binance","buyVenue":"okx","sellPrice":112118.19,"buyPrice":112116,"spread":0.00001953334046882094,"spreadPct":"0.0020%","date":"2025-09-04T00:52:23.183Z"}
+{"timestamp":1756947143652,"symbol":"BTC/USDT","sellVenue":"binance","buyVenue":"okx","sellPrice":112119.99,"buyPrice":112116,"spread":0.00003558814085416211,"spreadPct":"0.0036%","date":"2025-09-04T00:52:23.652Z"}
+{"timestamp":1756947146039,"symbol":"BTC/USDT","sellVenue":"binance","buyVenue":"okx","sellPrice":112124.71,"buyPrice":112116,"spread":0.00007768739519788793,"spreadPct":"0.0078%","date":"2025-09-04T00:52:26.039Z"}
+{"timestamp":1756947147301,"symbol":"BTC/USDT","sellVenue":"binance","buyVenue":"okx","sellPrice":112129.99,"buyPrice":112120,"spread":0.00008910096325370352,"spreadPct":"0.0089%","date":"2025-09-04T00:52:27.301Z"}
+{"timestamp":1756947349771,"symbol":"BTC/USDT","sellVenue":"okx","buyVenue":"binance","sellPrice":112168.7,"buyPrice":112156.74,"spread":0.00010663648033985162,"spreadPct":"0.0107%","date":"2025-09-04T00:55:49.771Z"}
